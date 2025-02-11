@@ -1,6 +1,5 @@
-# calcilator
+# Calcilator
 
-A new Flutter project.
 
 ## Getting Started
 
