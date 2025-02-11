@@ -1,5 +1,6 @@
 # Calcilator
 
+![hehe](./hehe.webp)
 
 ## Getting Started
 
